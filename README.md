@@ -2,4 +2,4 @@
 
 > **Interpreting Off-target / Target sequences for crispr cas9 experiments**
 
-![logo](unnamed.png)
+![logo](logo.png)
